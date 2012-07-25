@@ -1,0 +1,4 @@
+/* Example */
+body { background-image: url(images/body.png) }
+body>header { background-image: url(images/header.png) }
+body>footer { background-image: url(images/footer.png) }
